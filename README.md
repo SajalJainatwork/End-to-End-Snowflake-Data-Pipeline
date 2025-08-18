@@ -192,19 +192,7 @@ ALTER TASK BAL_UPDATE_TASK RESUME;
 
 ---
 
-## 📫 Contact Me
-
-I’m always open to discussing data projects and collaboration opportunities. Feel free to reach out:
-
-* **Email:** [masteravinashrai@gmail.com](mailto:masteravinashrai@gmail.com)
-* **LinkedIn:** [Avinash Analytics](https://www.linkedin.com/in/avinashanalytics/)
-* **HackerRank:** [AvinashAnalytics](https://www.hackerrank.com/AvinashAnalytics)
-* **Twitter (X):** [@AvinashAnalytiX](https://x.com/AvinashAnalytiX)
-
----
-
 ## 💬 Analytical Philosophy
 
 > **"Data beats emotions. Every business decision should start with 'What do the numbers say?'"**
-> – Avinash's adaptation of W. Edwards Deming's principle
 
